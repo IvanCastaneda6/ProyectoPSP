@@ -1,0 +1,10 @@
+
+Usuario:
+Email : ivan@gmail.com
+Nombre : ivan
+Apellidos : casdsfdfg
+Teléfono : 999/999/999
+Código Postal : 99999.
+
+Fecha de Nacimiento : 99/99/9999.
+
